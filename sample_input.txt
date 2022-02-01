@@ -1,1 +1,1 @@
-https://github.com/garimayadav97/docker-sources.git e2f1fcf19803842b7144b3fb6afb4b81f75ccb2d
+https://github.com/garimayadav97/sample.git 599013b968d131169a8ce2472768dd76d3298f27
